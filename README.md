@@ -1,1 +1,2 @@
-# praneel-s-game
+# praneel-s-game 
+is about the github connectivity
